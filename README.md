@@ -7,7 +7,7 @@ We are using [Now][now] for deployment. Before you begin, you will need to insta
 * To deploy, run the following in the project directory:
     `now -e url=https://domain-name.com`
 * This will give us a now deployment url that will look something like this:
-    `https://ghostdocker-pwwuscavnt.now.sh`
+    `https://ghostdocker-xyzabc.now.sh`
 * Use this url in the next step. In order to create an alias with a custom domain on Now, follow the steps [here][domain].
 `now alias <now deployment url> domain-name.com`
 
