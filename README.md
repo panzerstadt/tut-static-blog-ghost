@@ -9,7 +9,7 @@ We are using [Now][now] for deployment. Before you begin, you will need to insta
 * This will give us a now deployment url that will look something like this:
     `https://ghostdocker-pwwuscavnt.now.sh`
 * Use this url in the next step. In order to create an alias with a custom domain on Now, follow the steps [here][domain].
-`now alias <now deployment url> fertilityfreaks.com`
+`now alias <now deployment url> domain-name.com`
 
 Visit `domain-name.com` to see your newly created blog. To begin with Ghost, visit `domain-name.com/ghost` and create an account. As we used our custom domain name in our first Now command, our Ghost admin should work properly.
 
